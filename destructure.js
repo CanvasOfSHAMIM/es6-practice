@@ -1,4 +1,4 @@
-const person  = { name: 'Shamim Ashraf', age: 17, Job: 'thinker', gfName: 'Ishra', phone: '01292929293', address: "greenland", friends: ['Mamun Ahmed', 'Mufajjel Hassan', 'Sheikh Abdullah', 'Ziaur Rahman', 'Torikul Islam Shomrat']};
+const person  = { name: 'Shamim Ashraf', age: 17, Job: 'thinker', gfName: 'Ishra', phone: '01292929293', address: "greenland", friends: ['Shuvoo Ahmed', 'Shahed Islam', 'Sheikh Abdullah', 'Arifur Rahman']};
 
 const {phone, gfName, address} = person;
 // const gfName = person.gfName
